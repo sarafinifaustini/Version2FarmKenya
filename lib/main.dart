@@ -33,8 +33,6 @@ class MyApp extends ConsumerWidget {
     return MaterialApp(
         localizationsDelegates: const [
           // this line is important
-
-
         ],
         supportedLocales: const [
           const Locale('en'),
